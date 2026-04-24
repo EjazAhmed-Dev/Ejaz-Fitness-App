@@ -130,6 +130,15 @@ eas build --profile production --platform android
 
 ---
 
+## 📝 App Screens 
+
+- 🌐 Uses **remote images** for starter exercises and quotes  
+- 🖼 Developer profile image stored at:  
+  `assets/About screen image/Profile 1.png`  
+- ⚠️ If you rename assets, update the import paths in components accordingly  
+
+---
+
 ## 🌟 Future Improvements (Optional Ideas)
 
 - 🔐 User authentication  
