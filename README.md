@@ -6,13 +6,18 @@
 
 ## 🚀 Features
 
-- 🏠 **Home Screen** — Explore a curated list of exercises  
-- 📖 **Exercise Details** — View images and descriptions for each exercise  
-- ➕ **Add Exercise** — Create your own exercises with image upload support  
-- ✅ **Completed Workouts** — Keep track of finished activities  
-- 💬 **Motivational Quotes** — Get inspired with uplifting quotes  
-- 👨‍💻 **About Developer** — Access portfolio, LinkedIn, and GitHub links  
+- 🏠 **Home Screen** — Explore a curated list of exercises
+- <img width="1152" height="2368" alt="Image" src="https://github.com/user-attachments/assets/94063e7b-b98c-4516-abcd-4178d4044eb4" /> 
+- ➕ **Add Exercise** — Create your own exercises with image upload support
+- <img width="1152" height="2368" alt="Image" src="https://github.com/user-attachments/assets/a7a1afe7-f633-4fcd-be62-fef2d096f9f6" />
+- ✅ **Completed Workouts** — Keep track of finished activities
+- <img width="1152" height="2368" alt="Image" src="https://github.com/user-attachments/assets/d3c0da07-58bf-4d33-8745-02c53a4f7bdb" />
+- 💬 **Motivational Quotes** — Get inspired with uplifting quotes
+- <img width="1152" height="2368" alt="Image" src="https://github.com/user-attachments/assets/91ac1ec7-2a83-4ff8-84ed-4a9778f51078" />  
+- 👨‍💻 **About Developer** — Access portfolio, LinkedIn, and GitHub links
+- <img width="1152" height="2368" alt="Image" src="https://github.com/user-attachments/assets/389ef852-3572-4b84-9630-68e6a07d4f63" />
 - 🎨 **Modern UI** — Designed with the **LUNA color palette**
+- <img width="1092" height="1092" alt="Image" src="https://github.com/user-attachments/assets/32802a69-d95f-4281-bae7-758b8fb65ee0" />
 
 ---
 
