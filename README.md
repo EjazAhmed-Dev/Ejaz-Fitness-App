@@ -148,9 +148,8 @@ eas build --profile production --platform android
 ## 🌟 Future Improvements
 
 - 🔐 User authentication  
-- 📊 Progress tracking & analytics  
-- ☁️ Cloud integration (Firebase / Supabase)  
-- 🎯 Personalized workout recommendations  
+- 📊 Progress tracking & analytics   
+- 🎯 Personalized workout  
 
 ---
 
