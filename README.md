@@ -1,18 +1,18 @@
 # 💪 Ejaz Fitness
 
-**Ejaz Fitness** is a sleek and user-friendly mobile fitness tracker built using **Expo** and **React Native**. It helps users stay on top of their workouts, explore exercises, stay motivated, and even personalize their fitness journey by adding custom exercises.
+**Ejaz Fitness** is a clean and intuitive mobile fitness tracking app built with **Expo** and **React Native**. It’s designed to help users manage workouts, discover exercises, stay motivated, and customize their routine with ease.
 
 ---
 
 ## 🚀 Features
 
-- 🏠 **Home Screen** — Browse a list of fitness exercises  
-- 📖 **Exercise Details** — View exercise images and descriptions  
-- ➕ **Add Exercise** — Create custom exercises with device image upload  
-- ✅ **Completed Workouts** — Track your finished exercises  
-- 💬 **Motivational Quotes** — Stay inspired with curated quotes  
-- 👨‍💻 **About Developer** — Quick access to portfolio, LinkedIn, and GitHub  
-- 🎨 **Modern UI** — Styled using the **LUNA color palette**
+- 🏠 **Home Screen** — Explore a curated list of exercises  
+- 📖 **Exercise Details** — View images and descriptions for each exercise  
+- ➕ **Add Exercise** — Create your own exercises with image upload support  
+- ✅ **Completed Workouts** — Keep track of finished activities  
+- 💬 **Motivational Quotes** — Get inspired with uplifting quotes  
+- 👨‍💻 **About Developer** — Access portfolio, LinkedIn, and GitHub links  
+- 🎨 **Modern UI** — Designed with the **LUNA color palette**
 
 ---
 
@@ -31,10 +31,10 @@
 ```
 Ejaz-Fitness/
 │
-├── App.js                # Main app navigator and global state
-├── components/          # Reusable screens & UI components
-├── assets/              # Images, icons, and profile assets
-├── eas.json             # Expo Application Services config
+├── App.js               # App navigation and state management
+├── components/         # Screens and reusable UI components
+├── assets/             # Images, icons, and static files
+├── eas.json            # Expo build configuration
 └── package.json
 ```
 
@@ -54,18 +54,18 @@ npm install
 npm start
 ```
 
-Then choose your preferred platform:
+After starting, choose how you want to run the app:
 
-- 📱 Scan QR code with **Expo Go**
-- 🤖 Press `a` → Open Android emulator/device  
-- 🍎 Press `i` → Open iOS simulator (Mac only)  
-- 🌐 Press `w` → Open in browser  
+- 📱 Scan the QR code using **Expo Go**  
+- 🤖 Press `a` to launch on Android  
+- 🍎 Press `i` to run on iOS (Mac only)  
+- 🌐 Press `w` to open in a browser  
 
 ---
 
 ## 🏗 Build with EAS
 
-This project is configured for **Expo Application Services (EAS)** builds.
+This project uses **Expo Application Services (EAS)** for building apps.
 
 ### Install EAS CLI
 
@@ -79,85 +79,87 @@ npm install -g eas-cli
 eas login
 ```
 
-### Configure Project
+### Configure the Project
 
 ```bash
 eas build:configure
 ```
 
-### Create Builds
+### Build Variants
 
-#### 🔧 Development Build
+#### 🔧 Development
 
 ```bash
 eas build --profile development --platform android
 ```
 
-#### 👀 Preview Build
+#### 👀 Preview
 
 ```bash
 eas build --profile preview --platform android
 ```
 
-#### 🚀 Production Build
+#### 🚀 Production
 
 ```bash
 eas build --profile production --platform android
 ```
 
-👉 Replace `android` with `ios` for iPhone builds.
+👉 Switch `android` to `ios` for iOS builds.
 
 ---
 
 ## 📦 GitHub Submission Guidelines
 
-1. Push the complete project to a GitHub repository  
-2. Include:
+1. Push your complete project to a GitHub repository  
+2. Make sure to include:
    - Source code  
    - `package-lock.json`  
    - `eas.json`  
-3. Share the repository link  
-4. Upload a zipped project folder if required (e.g., Google Classroom)
+3. Share your repository link  
+4. Upload a zipped version if required (e.g., Google Classroom)
 
 ---
 
 ## 📝 Notes
 
-- 🌐 Uses **remote images** for starter exercises and quotes  
-- 🖼 Developer profile image stored at:  
+- 🌐 The app uses **remote images** for exercises and quotes  
+- 🖼 Profile image path:  
   `assets/About screen image/Profile 1.png`  
-- ⚠️ If you rename assets, update the import paths in components accordingly  
+- ⚠️ If asset names are changed, update the import paths accordingly  
 
 ---
 
-## 📝 App Screens 
+## 📱 App Screens
 
-- 🌐 Uses **remote images** for starter exercises and quotes  
-- 🖼 Developer profile image stored at:  
-  `assets/About screen image/Profile 1.png`  
-- ⚠️ If you rename assets, update the import paths in components accordingly  
+- 🏠 Home Screen  
+- 📖 Exercise Details  
+- ➕ Add Exercise  
+- ✅ Completed Workouts  
+- 💬 Motivational Quotes  
+- 👨‍💻 About Developer  
 
 ---
 
-## 🌟 Future Improvements (Optional Ideas)
+## 🌟 Future Improvements
 
 - 🔐 User authentication  
-- 📊 Workout analytics & progress charts  
-- ☁️ Cloud data storage (Firebase / Supabase)  
-- 🎯 Personalized workout plans  
+- 📊 Progress tracking & analytics  
+- ☁️ Cloud integration (Firebase / Supabase)  
+- 🎯 Personalized workout recommendations  
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome! Feel free to fork this repo, open issues, or submit pull requests.
+Feel free to contribute! Fork the repo, open issues, or submit pull requests.
 
 ---
 
 ## 📄 License
 
-This project is open-source and available under the **MIT License**.
+Licensed under the **MIT License**.
 
 ---
 
-💥 *Stay consistent. Stay strong. Build your best self with Ejaz Fitness!*
+💥 *Stay consistent. Stay focused. Build your fitness journey with Ejaz Fitness.*
